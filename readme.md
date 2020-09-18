@@ -1,3 +1,6 @@
+ 解决ros-kinetic使用python3问题: https://blog.csdn.net/weixin_41848012/article/details/103284050
+
+
 ## Livox Detection: trained based on LivoxDataset_v1.0 [\[LivoxDataset\]](https://www.livoxtech.com/cn/dataset)
 The detector can run at least 90 FPS on 2080TI. The provided model was trained on LivoxDataset_v1.0 within 10k pointcloud frames.
 
